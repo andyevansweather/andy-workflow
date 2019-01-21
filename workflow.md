@@ -15,3 +15,4 @@
 - [ ] Check code coverage conforms to agreed acceptable level
 - [ ] Test requirements in chrome
 - [ ] Repeat in firefox and edge
+- [ ] Repeat in iPad
