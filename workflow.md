@@ -9,6 +9,12 @@
 
 - [ ] Check code for dupulication.
 - [ ] Check code is self documenting: remove comments unless needed.
+- [ ] Can any global variables be replaced?
+- [ ] Can any of the code be replaced with library functions?
+- [ ] Can any logging or debugging code be removed? Ctrl Shift F for console logs
+- [ ] Does code follow defined architecture?
+- [ ] Is any code invoking memory leaks?
+- [ ] Check your variable names used for classes, enum, struct , methods, and variables?
 
 ## Dev Testing
 
