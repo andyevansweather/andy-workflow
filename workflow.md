@@ -5,6 +5,10 @@
 - [ ] [Develop deployment](https://eu-west-2.console.aws.amazon.com/codesuite/codepipeline/pipelines/df-ae-pipeline-system/view?region=eu-west-2) and successful [Sonar passing](https://sonarcloud.io/dashboard?id=defence-forecaster%3Adefence-forecaster)
 - [ ] Documentation
 
+## Kickoff meeting
+
+- [ ] Include another developer and product owner in discussing requirements and approach.
+
 ## Quality Checks
 
 - [ ] Check code for dupulication.
@@ -15,6 +19,10 @@
 - [ ] Does code follow defined architecture?
 - [ ] Is any code invoking memory leaks?
 - [ ] Check your variable names used for classes, enum, struct , methods, and variables?
+
+## Pre pull request
+
+- [ ] Sound out code with another developer.
 
 ## Dev Testing
 
