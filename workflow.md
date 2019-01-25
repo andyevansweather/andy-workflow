@@ -20,6 +20,10 @@
 - [ ] Is any code invoking memory leaks?
 - [ ] Check your variable names used for classes, enum, struct , methods, and variables?
 
+## Best Practice
+
+- [ ] Encapsulate methods to promote how they are used
+
 ## Pre pull request
 
 - [ ] Sound out code with another developer.
