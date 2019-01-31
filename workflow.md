@@ -26,6 +26,7 @@
 
 ## Pre pull request
 
+- [ ] Refactor code.
 - [ ] Sound out code with another developer.
 
 ## Dev Testing
