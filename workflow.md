@@ -20,6 +20,12 @@
 - [ ] Is any code invoking memory leaks?
 - [ ] Check your variable names used for classes, enum, struct , methods, and variables?
 
+## Error checks
+
+- [ ] Are http/websocket/graphql connections handled in an error state?
+- [ ] Check all error states are captured in every subscribe or http block.
+- [ ] Check cases for mutated data.
+
 ## Best Practice
 
 - [ ] Encapsulate methods to promote how they are used
