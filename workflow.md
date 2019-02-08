@@ -24,7 +24,7 @@
 
 - [ ] Are http/websocket/graphql connections handled in an error state?
 - [ ] Check all error states are captured in every subscribe or http block.
-- [ ] Check cases for mutated data.
+- [ ] Check cases for malformatted data.
 
 ## Best Practice
 
